@@ -5,7 +5,7 @@ class Hello < Formula
   desc ""
   homepage ""
   url "https://github.com/derrick921213/homebrew-hello/raw/master/hello_0.0.1.tar.gz"
-  sha256 "945363c5adcdf766713e7b2db17ed81f152342e040c3d996bfe9b5975f6c5d37"
+  sha256 "08e1c51594759643fb2509e81413cc3fe96a06760e457323d34fe32bdb01e9f9"
   license ""
 
   # depends_on "cmake" => :build
