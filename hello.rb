@@ -14,6 +14,7 @@ class Hello < Formula
     bin.install "hello"
   end
 
+
   test do
     # `test do` will create, run in and delete a temporary directory.
     #
